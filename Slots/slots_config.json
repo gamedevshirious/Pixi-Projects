@@ -1,0 +1,119 @@
+{
+    "items": [
+        {
+            "note": "Horse shoe",
+            "image": "00",
+            "freq_reel_1": 10,
+            "freq_reel_2": 10,
+            "freq_reel_3": 10
+        },
+        {
+            "note": "Orange",
+            "image": "01",
+            "freq_reel_1": 10,
+            "freq_reel_2": 10,
+            "freq_reel_3": 10
+        },
+        {
+            "note": "Clover",
+            "image": "02",
+            "freq_reel_1": 10,
+            "freq_reel_2": 10,
+            "freq_reel_3": 10
+        },
+        {
+            "note": "Coin",
+            "image": "03",
+            "freq_reel_1": 10,
+            "freq_reel_2": 10,
+            "freq_reel_3": 10
+        },
+        {
+            "note": "Heart",
+            "image": "04",
+            "freq_reel_1": 10,
+            "freq_reel_2": 10,
+            "freq_reel_3": 10
+        },
+        {
+            "note": "Lemon",
+            "image": "05",
+            "freq_reel_1": 10,
+            "freq_reel_2": 10,
+            "freq_reel_3": 10
+        },
+        {
+            "note": "Diamond",
+            "image": "06",
+            "freq_reel_1": 10,
+            "freq_reel_2": 10,
+            "freq_reel_3": 10
+        },
+        {
+            "note": "Bell",
+            "image": "07",
+            "freq_reel_1": 10,
+            "freq_reel_2": 10,
+            "freq_reel_3": 10
+        },
+        {
+            "note": "Cash",
+            "image": "08",
+            "freq_reel_1": 10,
+            "freq_reel_2": 10,
+            "freq_reel_3": 10
+        },
+        {
+            "note": "Cherry",
+            "image": "09",
+            "freq_reel_1": 10,
+            "freq_reel_2": 10,
+            "freq_reel_3": 10
+        },
+        {
+            "note": "Bar",
+            "image": "10",
+            "freq_reel_1": 10,
+            "freq_reel_2": 10,
+            "freq_reel_3": 10
+        },
+        {
+            "note": "Water melon",
+            "image": "11",
+            "freq_reel_1": 10,
+            "freq_reel_2": 10,
+            "freq_reel_3": 10
+        },
+        {
+            "note": "Grape",
+            "image": "12",
+            "freq_reel_1": 10,
+            "freq_reel_2": 10,
+            "freq_reel_3": 10
+        },
+        {
+            "note": "Seven",
+            "image": "13",
+            "freq_reel_1": 10,
+            "freq_reel_2": 10,
+            "freq_reel_3": 10
+        },
+        {
+            "note": "Banana",
+            "image": "14",
+            "freq_reel_1": 10,
+            "freq_reel_2": 10,
+            "freq_reel_3": 10
+        },
+        {
+            "note": "Apple",
+            "image": "15",
+            "freq_reel_1": 10,
+            "freq_reel_2": 10,
+            "freq_reel_3": 10
+        }
+    ],
+    "winning_combination_reward": {
+        "131313": 200
+    }
+}
